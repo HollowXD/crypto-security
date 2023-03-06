@@ -1,0 +1,6 @@
+Back in 2016, MySpace had hit headlines after 360 million user accounts were leaked and put up for sale on the black market.
+On the market they had an asking price of 6 bitcoin, which is around $3,000 at the time. According to the company, the breach
+got their hands on email addresses, passwords, and usernames for "a portion of accounts that were created prior to June 11, 2013, 
+on the old Myspace platform. In order to protect our users, we have invalidated all user passwords for the affected accounts created 
+prior to June 11, 2013, on the old Myspace platform. These users returning to Myspace will be prompted to authenticate their account 
+and to reset their password by following instructions.”
